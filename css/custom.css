@@ -2,5 +2,9 @@
 	margin: 15px 0px;
 	height: 10px;
 	width: 100%;
-	background-color: #000000;
+	background-color: #004A67;
+}
+
+h1, h2, a, a:hover {
+	color: #004A67 !important;
 }
