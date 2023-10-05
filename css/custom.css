@@ -6,5 +6,20 @@
 }
 
 h1, h2, a, a:hover {
-	color: #004A67 !important;
+	color: #004A67;
+	font-family: "Academicons", "Times New Roman", Times, serif;
+}
+
+p {
+	font-family: "Academicons", "Times New Roman", Times, serif;
+    line-height: 27px;
+    font-size: 17px;
+}
+
+a, a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline 2px;
 }
